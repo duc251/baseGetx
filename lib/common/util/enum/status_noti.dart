@@ -1,0 +1,1 @@
+enum StatusChat { SUCCESS, WARNING, ERROR, LOADING }

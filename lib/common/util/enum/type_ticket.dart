@@ -1,0 +1,1 @@
+enum TYPE_TICKET { IMPORT, EXPORT }
